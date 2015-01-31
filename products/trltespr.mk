@@ -31,7 +31,7 @@ PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
 
 
-PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=trltespr BUILD_FINGERPRINT=samsung/trltespr/trltespr:4.4.4/KTU84P/N910PVPU1ANK2:user/release-keys PRIVATE_BUILD_DESC="trltespr-user 4.4.4 KTU84P N910PVPU1ANK2 release-keys"
+PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=trltespr BUILD_FINGERPRINT=samsung/trltespr/trltespr:4.4.4/KTU84P/N910PVPU1ANK2:user/release-keys PRIVATE_BUILD_DESC="trltespr-user 5.0.2 LRX22G N910PVPU1ANK2 release-keys"
 
 
 #Bootanimation
