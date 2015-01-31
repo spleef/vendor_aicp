@@ -53,8 +53,11 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/su640.mk \
     $(LOCAL_DIR)/targa.mk \
     $(LOCAL_DIR)/t0lte.mk \
+    $(LOCAL_DIR)/trltecan.mk \
     $(LOCAL_DIR)/trltespr.mk \
     $(LOCAL_DIR)/trltetmo.mk \
+    $(LOCAL_DIR)/trlteusc.mk \
+    $(LOCAL_DIR)/trltevzw.mk \
     $(LOCAL_DIR)/trltexx.mk \
     $(LOCAL_DIR)/tilapia.mk \
     $(LOCAL_DIR)/togari.mk \
